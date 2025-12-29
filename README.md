@@ -46,7 +46,7 @@
 | u | string | 是 | 需要检测的 Telegram 用户名 (不带 @) |
 
 #### **请求示例**
-
+测试 API：访问 https://你的名字.workers.dev/check?u=durov (具体路径请参考 API 项目文档)，确认能返回 JSON 数据。
 GET \[https://your-domain.com/api/check?u=durov\](https://your-domain.com/api/check?u=durov)
 
 #### **响应示例**
